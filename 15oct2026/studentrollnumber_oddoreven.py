@@ -1,5 +1,5 @@
-rollnumber = int(input("enter the roll number:"))
-if roll number % 2 == 0;
+rollnumber = int(input("enter the rollnumber:"))
+if rollnumber % 2 == 0:
     print("even number")
 else:
     print("odd number")
